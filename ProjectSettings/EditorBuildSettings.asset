@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/gamestart.unity
+    guid: 9f9049d4581324e4d9bad3455b4f4e93
+  - enabled: 1
+    path: Assets/Scenes/levelchoice/chooselast.unity
+    guid: eecd5fe43d45e344c94b45bb05e4cd23
+  - enabled: 1
+    path: Assets/Scenes/level/level1.unity
+    guid: 194881a748b7a1e4785d60333f8dd7b8
+  - enabled: 1
+    path: Assets/Scenes/level/level2.unity
+    guid: e9c8cec67f960df47b36714bee088740
+  - enabled: 1
+    path: Assets/Scenes/level/level3.unity
+    guid: e7ab1cc0d94475640950b981da68b631
+  - enabled: 0
+    path: Assets/Scenes/level/level4.unity
+    guid: e82b0497c79da084fbd040583093284e
+  - enabled: 1
+    path: Assets/Scenes/level/levelboss.unity
+    guid: e1a1d117e5303d84a9476828593ab0df
+  - enabled: 0
+    path: Assets/Scenes/level/level6.unity
+    guid: 6986ea37f9253894ca2563134aa63d8a
+  - enabled: 1
+    path: Assets/Scenes/clearscene/stage1clear.unity
+    guid: eaec803405bc14b48a0d437d9eebbe37
+  - enabled: 1
+    path: Assets/Scenes/gameover/s1gameover.unity
+    guid: 56de79ead81eb7045bd73c7a4f5c4817
+  - enabled: 1
+    path: Assets/Scenes/clearscene/stage2clear.unity
+    guid: 5bcaedb2c829cc541a806b522a5aa304
+  - enabled: 1
+    path: Assets/Scenes/prologue.unity
+    guid: 4fe77d6d6a9a48c40a54bb88c5dd0b81
+  - enabled: 1
+    path: Assets/Scenes/clearbonus/stage1bonus.unity
+    guid: cb733cbabb78dff4fb108252631602d6
+  - enabled: 1
+    path: Assets/Scenes/gameover/s2gameover.unity
+    guid: 347e2512d8a316e43bb141e160b05b92
+  - enabled: 1
+    path: Assets/Scenes/clearbonus/stage2bonus.unity
+    guid: aeebcbdd2f060ed45b24af2fb7eeb2ba
+  - enabled: 1
+    path: Assets/Scenes/gameover/s3gameover.unity
+    guid: fe4f0d7731b6ed64b9151d9a30efa89c
+  - enabled: 1
+    path: Assets/Scenes/gameover/worstgameover.unity
+    guid: d71992ff06a55d1449ad4b0b3d525a79
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/gameover/s6gameover.unity
+    guid: bfdae3ade546b914f8dbb5f7256c1a9f
+  - enabled: 1
+    path: Assets/Scenes/clearscene/stage3clear.unity
+    guid: d9d227deae191ab43ab12238b0b35208
+  - enabled: 1
+    path: Assets/Scenes/clearscene/bossclearLast.unity
+    guid: b2fe3a720db89dd4dbdb88bd8d53dc8b
+  - enabled: 1
+    path: Assets/Scenes/boss/AFTER.unity
+    guid: 76337839e1b2e354c9aabdebae9e42df
+  - enabled: 1
+    path: Assets/Scenes/boss/newbossclear.unity
+    guid: 794f6218cca7fe84283fe16df9e10042
+  - enabled: 1
+    path: Assets/Scenes/levelchoice/chooselevel2.unity
+    guid: d6d57df475eca184f98dbf17d44b7abd
+  - enabled: 1
+    path: Assets/Scenes/levelchoice/chooselevel1.unity
+    guid: 16c25372a0b80eb49beeda7b91c177a4
+  - enabled: 1
+    path: Assets/Scenes/boss/bossgameover.unity
+    guid: 6063c11ca7e3aed4e8615c15192a71fe
+  - enabled: 1
+    path: Assets/Scenes/boss/beforeboss.unity
+    guid: 9137afae24828354fa3be0c9210b1520
+  - enabled: 1
+    path: Assets/Scenes/clearbonus/stage3bonus.unity
+    guid: f482b221e5013cd4db123ab883fd4d3c
+  m_configObjects: {}
